@@ -11,3 +11,8 @@ d = {"name": "manoj",
 bd1 = client1['mongotest']
 coll = db1['test']
 coll.insert_one(d)
+
+
+afjksj
+sdfsfk
+asdfsf
